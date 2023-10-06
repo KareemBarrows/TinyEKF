@@ -1,4 +1,4 @@
-# TinyEKF: Lightweight C/C++ Extended Kalman Filter with Python for prototyping
+##TinyEKF: Lightweight C/C++ Extended Kalman Filter with Python for prototyping
 
 <img src="fusion.png" width=500>
 
@@ -24,3 +24,4 @@ In addition to the class definition, the **python** folder has an example of mou
 So you will have to install OpenCV to run this example. There is also a sensor-fusion example in this folder,
 which uses the [RealtimePlotter](https://github.com/simondlevy/RealtimePlotter) package, requiring
 Matplotlib.
+ 
